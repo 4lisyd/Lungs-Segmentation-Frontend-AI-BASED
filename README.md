@@ -12,6 +12,6 @@ Django API
 Proper documentation to be project soon.
 
 
-### TODOS: 
+### TODOS: 📝
 
 try to dockerize the API.
