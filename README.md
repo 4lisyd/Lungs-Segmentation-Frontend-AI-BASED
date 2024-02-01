@@ -1,7 +1,7 @@
-##Frontend
+## Frontend
 
 VUEJS + AXIOS
 
-##Backend
+## Backend
 
 Django API
