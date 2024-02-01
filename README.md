@@ -1,3 +1,7 @@
-Frontend = VUEJS + AXIOS
+##Frontend
 
-Backend = Django API
+VUEJS + AXIOS
+
+##Backend
+
+Django API
